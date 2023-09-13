@@ -7,3 +7,4 @@ Dockerfile
 yarn.lock
 .env
 libraries.json
+package-json.lock
